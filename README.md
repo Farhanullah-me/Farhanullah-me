@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Farhanullah-me
+- 👋 Hi, I’m @Farhanullah
 - 👀 I’m interested in Android Development with Jetpack compose and Kotlin
 - 🌱 I’m currently learning Android
 This Repository is special for my side project which i will be doing for practice to Polish my learning
